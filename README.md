@@ -1,1 +1,0 @@
-# rfd_validation_clustering_based
